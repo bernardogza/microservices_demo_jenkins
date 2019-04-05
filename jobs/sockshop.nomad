@@ -480,7 +480,7 @@ job "sockshop" {
 
       resources {
         cpu = 100 # 100 Mhz
-        memory = 1024 # 1024MB
+        memory = 1048 # 1024MB
         network {
           mbits = 10
           port "http" {
